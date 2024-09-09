@@ -3,39 +3,35 @@
 
 void triangle(int n) {
     int base = 2*n - 1;
-    int tmp = n;
-    while(tmp > 0) {
-        if (tmp == n) {
-            for(int i = 0; i < base; i++) {
-                if(i == base-1) {
-                    printf("*\n");
+    for(int i = 0; i < n; i++) {
+        if (i == 0) {
+            for(int j = 0; j < base; j++) {
+                printf("*");
+                if (j == base - 1) {
+                    printf("\n");
                 }
-                else {
-                    printf("*");
-                }
-                
-            }
+            }    
         }
         else {
-            for(int i = 0; i < base; i++) {
-                if (i%2 == 0) {
+            for(int j = 0; j < base; j++) {
+                if( j == 0) {
                     printf("*");
                 }
-                else if(i == base -1) {
-                    printf("*\n");
-                }
                 else {
-                    printf(" ");
+                    if(j == base - 1) {
+                        printf("*\n");
+                    }
+                    else {
+                        printf(" ");
+                    }
                 }
             }
         }
-        base -= 1;
-
+        base -= 2;
     }
 }
 
 int main() {
-    //AFINIR
-
+    triangle(4);
     return 0;
 }
