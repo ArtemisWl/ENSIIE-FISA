@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "stdlib.h"
 #include "math.h"
+#include "ctype.h"
 
 int isNumber(char* str) {
     int i = 0;
@@ -17,8 +18,8 @@ int main(int argc, char* argv[]) {
         fprintf(stderr, "3 arguments sont requis\n");
     }
     else if(isNumber(argv[1]) && isNumber(argv[2]) && isNumber(argv[3])){
-        double a = atod(argv[1]), b = atod(argv[2]), c = atod(argv[1]);
-        double hyp = max(max(a, b), c);
+        double a = atof(argv[1]), b = atof(argv[2]), c = atof(argv[3]);
+        double hyp = fmax(fmax(a, b), c);
         if(hyp*hyp == a*a + b*b) {
             printf("Il existe un triangle rectangle avec ses longueure\n");
         }
