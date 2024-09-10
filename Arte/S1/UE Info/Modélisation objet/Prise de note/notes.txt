@@ -1,0 +1,7 @@
+C procédural 
+java objet
+
+
+
+fonctionelle
+logique
