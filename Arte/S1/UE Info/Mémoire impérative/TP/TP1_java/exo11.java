@@ -9,10 +9,10 @@ public class exo11 {
         Integer n = Integer.valueOf(args[0]);
         if (n < 10) {
             System.out.println("Le nombre choisi est inférieur à 10 donc le calcul sera éfféctué avec n = 10\n");
-            int res = somme(10);
+            somme(10);
         }
         else {
-            int res = somme(n);
+            somme(n);
         }
 
     }
