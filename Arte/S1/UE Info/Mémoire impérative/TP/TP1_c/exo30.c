@@ -23,16 +23,16 @@ int dich(int size, int tab[], int m) {
             right = mid - 1;
         }
     }
-
+    printf("\n");
     return 0;
 }
 
 int main() {
-    int tab[10];
-    for(int i = 0; i < 10; i++) {
+    int tab[8];
+    for(int i = 0; i < 8; i++) {
         tab[i] = i;
     }
-    int res = dich(10, tab, 15);
-    printf("%d", res);
+    int res = dich(8, tab, 15);
+    printf("%d\n", res);
     return 0;
 }
