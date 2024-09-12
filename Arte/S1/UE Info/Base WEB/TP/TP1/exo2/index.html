@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TP1 exo2</title>
+</head>
+<body>
+    <h1>Recherche immobilière</h1>
+    
+    <p>On cherche des maisons</p>
+    
+    <form submit>
+        <label for="prenom">Prénom :</label>
+        <input type="text" id="prenom" name="prenom" required>
+        
+        <label for="addrm">Adresse mail :</label>
+        <input type="email" id="addrm" name="addrm" required>
+        
+        <label for="mdp">Mot de Passe :</label>
+        <input type="password" id="mdp" name="mdp" required>
+
+        <label for="gender">Genre :</label>
+        <select name="gender" id="gender">
+            <option value="Choix" selected="selected" disabled>A choisir</option>
+            <option value="Masculin">Masculin</option>
+            <option value="Feminin">Feminin</option>
+            <option value="Autre">Autre</option>
+        </select>       
+        
+        <label for="birth">Date de naissance :</label>
+        <input type="date" id="birth" name="birth" required>
+
+        <label for="age">Age :</label>
+        <input type="number" id="age" name="age" required>
+
+        <label for="tel">Numéro de téléphone :</label>
+        <input type="tel" id="tel" name="tel" pattern="[0-9]{10}">
+
+        <label for="color">Couleur de la maison :</label>
+        <input type="color" id="color" name="color">
+
+        <label for="price">Tranche de prix :</label>
+        <input type="text" id="price" name="price">
+
+        <label for="cni">Dépot de piece d'identité :</label>
+        <input type="file" id="cni" name="cni">
+
+        <label for="datevst">Date de visite souhaitée :</label>
+        <input type="date" id="datevst" name="datevst">
+
+        <label for="houre">Heure de visite souhaitée :</label>
+        <input type="time" id="houre" name="houre">
+
+        <label for="check">Acceptation des conditions d'utilisation :</label>
+        <input type="checkbox" id="check" name="check">
+
+        <label for="region">Choix de région :</label>
+        <select name="region" id="region">
+            <option value="Choix" selected="selected" disabled>A choisir</option>
+            <option value="idf">Ile-de-France</option>
+            <optgroup label="Province">Province
+                <option value="Hauts-de-France">Hauts-de-France</option>
+                <option value="Provence-Alpes-Côtes dAzur">Provence-Alpes-Côtes d’Azur</option>
+                <option value="Occitanie">Occitanie</option>
+            </optgroup>
+        </select>   
+
+        <label for="submit">Valider :</label> 
+        <input type="submit" value="submit">
+
+    </form>
+</body>
+</html>
