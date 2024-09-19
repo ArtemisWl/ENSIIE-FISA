@@ -107,6 +107,28 @@ Type d'entreprise :
 
 
 
+"Combien de pain au chocolat t'as volé aujourd'hui Annas"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 				
 
@@ -183,7 +205,51 @@ Intro :
 
 		L'entreprise, doit s'addapter à son environnement pour survivre, autrement elle disparait. Aujourd'hui elle évolue dans un 
 		environnement [VICA](https://en.wikipedia.org/wiki/VUCA). Ainsi au dela de s'adapter elle doit aussi anticiper son environnement.
-			  
+		Ainsi l'entreprise se doit d'opter et de dévelloper un "comportement", c'est-à-dire une stratégie, laquelle lui permet d'atteindre ses objectifs,
+		pour aller dans une direction choisi au services d'une vision.
+		Ainsi 2 stratégies générique s'offre à elle :
+			--|
+			  |--> Stratégie offensive basé sur l'inovation.
+			  |--> Stratégie déffensive : suiveurs de l'inovation. 
+
+
+		I - Macro environement : l'environnement général
+
+			- Il s'agit des dimenssions qui vont impacté l'activité économique et donc des entreprises :
+					- Culturel (Cochonou en iran??)
+					- Economique (Crise ou croissance)
+					- Social (éducation)
+					- Politique 
+					- Legislatif 
+
+			L'entreprise ne peut pas agir sur ses dimension elle les subit
+
+		II - Mircro environnement : l'environnement spécifique
+
+			- L'entreprise peut l'influencer 
+				On y trouve à la fois des partenaire et des concurrents : 
+																- Banques
+																- Fournisseurs
+																- Etats
+																- Consommateurs
+																- Etrangers
+
+		III - Exercices 
+
+			Trouver un element et son contraire ?
+
+
+
+
+
+
+
+
+
+
+
+
+		
 		
 
 			
