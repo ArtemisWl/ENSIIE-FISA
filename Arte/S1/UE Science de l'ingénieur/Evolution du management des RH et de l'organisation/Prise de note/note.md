@@ -80,17 +80,44 @@ Convention :
 	Question : mon projet perso + mes valeurs 
 
 
+Comment trouver le leader qui est en vous  Dale Carnejie
+
+Comment être un bon manager Jeffrey Fox
+
+
+
+RCS = Registre des commerces et des sociétés
+
+
+Type d'entreprise :
+				-SA :
+				-SAS/U :
+				-EURL :
+				-SARL :
+				-SNC :
+				-EI : Entreprise Individuel
+
+				CR sur EI et SNC (Confusion du capitale)
+
+				Séparation du Patrimoine pour : SA, SAS/U, EURL, SARL
+
+				CGI = Code Générale des Impots
+
+				EIRC, PP, PM, DD?????????
 
 
 
 
+				
 
 
 
 
+	
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Intro :
@@ -112,8 +139,57 @@ Intro :
 				 Tester sa faisabilité ainsi que sa viabilité et la concrétiser en projet. Celui-ci vous invite a éllaborer un business
 				 model et un business plan (Model = source revenue|plan = l'infra).
 
-			-Réunir le capitale néssécaire pour finnancer l'activité. (Apporter les capitaux, endettement, love money, financement participatif).
-				Le banquier avant de financer un projet s'interesse a 2 dimmenssion clé : --|
-																							|--> Rentabilité du projet
-																							|--> Le porteur de projet
+			-Réunir le capitale néssécaire pour finnancer l'activité. (Apporter les capitaux, endettement, love money, financement participatif)
+				Le banquier avant de financer un projet s'interesse a 2 dimmenssion clé : 
+				  --|
+				 	|--> Rentabilité du projet, Avant de ce lancer il est préférable au niveau du business plan de realiser une étude de marché et une études des concurents
+					|--> Le porteur de projet
+					|--> Le créateur apporte ses fond propre pour constituer le capitale il peut autrement ouvrir celui ci a d'autre associer
+
+
+			-Choisir un status juridique.
+
+			-S'immatriculer auprès de la CCI (Chambre de Commerces et de l'Industrie) et s'enregister auprès du RCS pour obtenir son siret.
+				De la l'entreprise obtients une personalité juridique : Elle devient une personne morale.
+
+			-Identifier son expert comptable (premier conseiller des petites structures).					
+				(Les entreprise creer par des cadres ont une durée de vie plus importante)
+
+			-Envisager un accompagnement.
+				Afin de sécuriser la pérennité.
+				Par exemple la CCI accompagne les créateurs sur 3 ans.
 				
+			-Envisager le recrutement du premier collaborateur.
+				Type de contrats :
+								-CDD
+								-CDI
+								-CTT
+			
+		II - Roles et missions du dirigeant
+
+			Dirigé c'est un metier. Le chef d'entreprise doit dévelloper des qualités des d'écoutes, d'autonomies, de capacité d'adaptations, 
+			d'ésprit d'équipes, de maitrise de soi, créativité, curiosité, et capacité à résoudres les problèmes(capacité à se demmerder).
+
+			-Parmis les compétences du dirigeant on en trouve 4 :
+				--|
+				  |--> Manager : Delguer recruter fixer des objéctifs...
+				  |--> Commerciale / Marketing : Connaitre son produit, et ses clients, identifier leurs besoins, afin de mieux vendres ses produits.
+				  |--> Gestion comptabilité 
+				  |--> La maitrise d'un metier
+
+			Le dirigeant se doit de maitriser ces 4 compétences et/ou d'accquérire les collaborateurs qui les détiennes.
+
+	Chapitre 2 : L'entreprise dans son environnement 
+
+		L'entreprise, doit s'addapter à son environnement pour survivre, autrement elle disparait. Aujourd'hui elle évolue dans un 
+		environnement [VICA](https://en.wikipedia.org/wiki/VUCA). Ainsi au dela de s'adapter elle doit aussi anticiper son environnement.
+			  
+		
+
+			
+
+			
+
+	
+				
+			
