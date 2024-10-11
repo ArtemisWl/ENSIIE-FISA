@@ -110,15 +110,26 @@ Type d'entreprise :
 "Combien de pain au chocolat t'as volé aujourd'hui Annas"
 
 
+			- Cool :
+			
+				- RH : Copie sur Mehdi
+				- Gestion/Commercial? : Copie sur Mehdi
+				- Technique :
+					- Sous traiter : Externaliser
+					- Expertise metier 
+					- Recherche & Devellopement : Fondamental, appliqué, inovation 
+				- Marketing
 
 
 
 
+			- Pas cool :
+
+				- Gestion financière :
 
 
 
-
-
+					
 
 
 
@@ -240,22 +251,68 @@ Intro :
 
 
 
+	Chapitre 3 : Les stats de dévellopement de l'entreprise 
+
+		De même que le produit qui connait un cycle de vie l'entreprise nait, ce dévellope, ce transforme et ou disparait 
+
+		1) Lors de la création le dirigeant 
+		
+		2) L'entreprise est en croissance, les défies l'attendent dans plusieurs domaines.
+			Ainsi le dirigeant est invité à recruter et déléguer 
+			ainsi le dirigeant ne peut plus tout faire, il est invité à faire faire par le biais de manager qui encadreront 
+			l'équipe, le dirigeant devient le manager.
+
+		3) Les 3 défis du dirigeant :
+
+				-|-> Rectruter les bonnes personnes 
+				 |-> Trouver les fonds pour se develloper
+				 |-> Prévoir, anticiper les changement de l'enviroment
+
+				 Ainsi le dirigeant doit relever le défis de l'anticipation et se demander se qu'il fera demain et après de demain.
+				 Ainsi il devient stratège l'idéale c'est de faire 
+
+		Conclusion :
+			
 
 
 
 
 
 
-
-
-
+Vous preparez votre rendez vous chez le banquier, afin d'obtenir les fonds néscéssaire pour financer votre projet.
+Que dites vous? Comment faites vous? Avant et pendant le rendez vous?
 		
 		
 
-			
 
-			
 
-	
-				
+
+	Chapitre 4 : Manageur : Qualités roles et missions
+
+		I - Les qualitées 
+
+			- L'écoute 
+			- Capacité d'adaptation 
+			- Fixer un cadre
+			- Justice et fermeter 
+			- Valoriser 
+			- Organiser 
+			- Motivant / Implicant / Inspirant / Qui est un modêle 
+
+
+		II - Rôles et compétences 
+
+			- Recruter et intégrer les nouveaux collaborateurs 
+			- Fixer des objectifs 
+			- Former les collaborateurs 
+			- Deleguer l'execution des taches 
+			- Valoriser : Envoyer du feedback 
+			- Evaluer les objectifs et les résultats en fin d'année : EAE
+			- Annimer une reunions d'équipes 
+			- Mener des entretiens suivies 
+
+		III - Les styles de managements 
+
+			Dans les années 70 Blake et Mouton ont élaborer une grilles managériale permetant d'identifier 5 style de management 
+
 			
