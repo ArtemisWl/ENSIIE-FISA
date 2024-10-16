@@ -19,3 +19,19 @@ Linguaskill from your 2nd year => need B2
 3) Do you go to the office or you work from home ?
 
 4) If you work from home, are you happy about that ?
+
+
+
+---
+
+Fire 
+Transistor 
+wheel 
+INternet 
+Printing 
+Presspaper
+Computer
+antibiotics
+sanitation 
+Radio
+
