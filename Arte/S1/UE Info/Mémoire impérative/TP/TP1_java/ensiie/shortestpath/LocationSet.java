@@ -29,5 +29,25 @@ public class LocationSet {
         }
         nbLocations++;
     }
+
+    public Location removeMin() {
+        if (nbLocations == 0) {
+            return null;
+        }
+        else {
+            int indMin = 0;
+            double comp = locations[0].getDistance();
+            for (int i = 0; i < nbLocations; i++) {
+                if (locations[i].getDistance() <= comp) {
+                    comp = locations[i].getDistance();
+                    indMin = i;
+                }
+            }
+            Location res = locations[indMin];
+            locations[indMin] = locations[nbLocations - 1];
+            nbLocations--;
+            return res;
+        }
+    }
 }
 
