@@ -46,9 +46,10 @@ public class Main {
         test.add(paris);
         test.add(evry);
         test.add(orleans);
-        test.locations[0].display();
-        test.locations[1].display();
-        test.locations[2].display();
-        System.out.println(test.locations.length);
+
+        for (Location cur=test.removeMin(); cur!=null; cur=test.removeMin()) {
+            cur.display();
+            System.out.println("distance : " + cur.getDistance());
+        }
     }
 }

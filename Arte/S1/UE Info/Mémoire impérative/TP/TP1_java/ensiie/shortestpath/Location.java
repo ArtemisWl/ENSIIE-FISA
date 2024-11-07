@@ -11,7 +11,7 @@ public class Location {
         name = nameNew;
         latitude = (Math.PI*latitudeNew)/180;
         longitude = (Math.PI*longitudeNew)/180;
-        distance = Math.random()*100;
+        //distance = Math.random()*100;
     }
 
     public void display() {
