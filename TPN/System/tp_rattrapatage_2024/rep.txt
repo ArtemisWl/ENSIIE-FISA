@@ -1,0 +1,56 @@
+EXO 2 :
+1)On crée un processeur Parent, puis un fils, si le fils est bien crée alors on print la valeur contenue dans le fork 
+et le pid du processur fils puis on attends à l'infini.
+Sinon on fait la même chose pour le père, puis 5 sec après on envoie un signal au processus fils
+2) c'est une fonction qui permet de crée un processus.
+3)La fonction alarm envoie un signal à un processus après x secondes.
+4)SIGALARM-Signal de temps-Numéro:14-Avec un wait.
+
+EXO 3:
+1)Cela permet de faire circuler de l information avec un système de file d attente (avec des écrivants et des lecteurs).
+Canal de synchronisation.
+2)Les tube nommes sont des tubes (pipe) qui existent dans le systeme de fichiers, et donc peuvent
+etre ouverts grace a une reference.
+Un tube non nommé a son processus parenté.
+Un tube nommé permet d y accèder grâce à son nom.
+
+3)Efficacité théorique Du disque à la variable utilisateur: 1/2/3 copies
+pour mmap/flux noyau/libc.
+Efficacité pratique Mal utilisés, les flux noyau peuvent être catas-
+trophiques car les appels système coûtent chers.
+Mal utilisés, mmap peut coûter cher car les mapping et unmaping
+sont des opérations complexes et peuvent générer une fragmentation
+de l espace virtuel.
+Les flux libc donnent une efficacité acceptable.
+Facilité dutilisation Les flux libc sont faciles à utiliser surtout si il y
+a des E/S formatées.
+Mmap est le plus complexe, ceci est du au contraintes d alignement,
+et l impossibilité dajouter des octets à un fichier mappé.
+4)int mkfifo(const char *pathname, mode_t mode);
+5)mkfifo
+
+6)
+Spécificités des opérations d’ouverture,de lecture et d’écriture dans le tube :
+Ouverture: Les tubes nommés peuvent être ouverts en utilisant une référence dans le système de fichiers. 
+    Le tube doit être ouvert en mode lecture ou écriture.
+Lecture: Lorsqu'un processus lit à partir d'un tube nommé, 
+    il attend que des données soient disponibles. 
+    Si aucun processus n'écrit dans le tube, 
+    le lecteur est bloqué jusqu'à ce que des données soient écrites.
+Écriture: Lorsqu'un processus écrit dans un tube nommé, 
+    il attend que l'autre extrémité du tube soit ouverte pour la lecture. 
+    Si aucun processus ne lit le tube, 
+    l'écrivain est bloqué jusqu'à ce qu'un lecteur soit disponible.
+
+7)kill PID_lecteur
+
+8)
+Si vous tentez d'écrire un message dans la fenêtre de l'écrivain 
+et que le lecteur n'est pas en cours d'exécution ou n'est pas prêt à lire, 
+le processus écrivain sera bloqué jusqu'à ce qu'un lecteur soit disponible. 
+Si vous forcez la fermeture du tube ou interrompez le processus écrivain, 
+il recevra le signal SIGPIPE.
+
+Signal reçu: SIGPIPE
+Processus: Le processus écrivain
+Comportement par défaut: Le comportement par défaut de SIGPIPE est de terminer le processus qui tente d'écrire dans un tube sans lecteur.
